@@ -1,5 +1,6 @@
 library(shiny)
 library(ggplot2)
+library(markdown)
 data(mtcars)
 
 dataset <- mtcars

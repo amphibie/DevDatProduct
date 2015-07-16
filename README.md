@@ -20,14 +20,12 @@ Here's what I need
 * 3.A link to my github or Rpubs presentation pasted into the text box on the peer assessment site of COURSERA.
 
 
-[Assignment](https://class.coursera.org/devdataprod-002/human_grading/view/courses/972092/assessments/5/submissions)
-
 ### Shiny Application
 
 App published from RStudio to ShinyApps.io  
 See http://shiny.rstudio.com/tutorial/lesson7/ for details.
 
-https://paulfoellbach.shinyapps.io/Shinyapp
+https://paulfoellbach.shinyapps.io/DevDatProduct
 
 ### Reproducible Pitch Presentation
 
