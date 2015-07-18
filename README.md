@@ -21,13 +21,12 @@ Here's what I need
 
 
 ### Shiny Application
-
 App published from RStudio to ShinyApps.io  
 See http://shiny.rstudio.com/tutorial/lesson7/ for details.
 
+My shiny app is here:
 https://paulfoellbach.shinyapps.io/DevDatProduct
 
 ### Reproducible Pitch Presentation
-
-Presentation published as a link to the slidify presentation.
+My R Presentation is published at http://rpubs.com/kfe42g/92945.
 
