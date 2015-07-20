@@ -1,10 +1,10 @@
 ### Welcome to the automobile explorer
 
-This application is based on the data that was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973–74 models).
+This application is based on the data that was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973 to 1974 models).
 
 The dataset mtcars has been obtained from the R datasets package in R, Source:
 
-Henderson and Velleman (1981), Building multiple regression models interactively. Biometrics, 37, 391–411.
+Henderson and Velleman (1981), Building multiple regression models interactively. Biometrics, 37, 391 to 411.
 
 
 Source code is available on the [GitHub](https://github.com/amphibie/DevDatProduct).
